@@ -1,0 +1,50 @@
+.container{
+    width: 1200px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box1{
+    width: 45%;
+    margin: auto;
+    background-color: azure;
+    padding: 5px 10px;
+    border: 2px solid black;
+    margin: 5px;
+}
+.box1 .box1_1{
+    width: 45%;
+    margin: auto;
+}
+.box1_1 img{
+    width: 100%;
+}
+.box2{
+    background-color: blue;
+    width: 30%;
+    margin: auto;
+    padding: 5px 10px;
+    border: 2px solid black;
+    margin: 5px;
+}
+.box3{
+    width: 90%;
+    margin: auto;
+    padding: 5px 10px;
+    border: 2px solid black;
+    margin: 5px;
+}
+.box3 img{
+    width: 100%;
+}
+.box4{
+    background-color: rebeccapurple;
+    width: 30%;
+    margin: auto;
+    padding: 5px 10px;
+    border: 2px solid black;
+    margin: 5px;
+}
+
